@@ -50,4 +50,9 @@ git push -u github master
 git clone https://github.com/thenewstnp/Stage-04-07.git
 ```
 7. 忽略文件上传
-- 可以在项目根目录后文件夹创建 .gitignore 文件 把需要忽略的文件或文件夹添加进去
+- 可以在项目根目录或文件夹创建 .gitignore 文件 把需要忽略的文件或文件夹添加进去
+8. pull
+- 拉去远程文件更新
+```
+git pull
+```
